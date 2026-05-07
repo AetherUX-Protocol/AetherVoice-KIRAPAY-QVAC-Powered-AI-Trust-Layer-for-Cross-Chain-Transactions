@@ -1,0 +1,13 @@
+{
+  "statute": "Bharatiya Sakshya Adhiniyam (BSA) 2026",
+  "compliance_mapping": {
+    "Section_61": "Local QVAC inference ensures data was produced in the ordinary course of business.",
+    "Section_63": "AetherVoice generates a 64-character SHA-256 hash to certify the electronic record.",
+    "Section_57": "The local audit treats the uploaded document as Primary Evidence by verifying its source silicon-to-chain."
+  },
+  "audit_requirements": [
+    "Hash Integrity",
+    "On-device OCR timestamp",
+    "Non-cloud verification log"
+  ]
+}
